@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vicjordan23.github.io/tesla-tarjetas/sitemap.xml
